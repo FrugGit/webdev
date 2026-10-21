@@ -1,0 +1,8 @@
+    @font-face {
+      font-family: whatEver;
+      src: url(sansation_light.woff) format(woff);
+    }
+
+    body {
+       font-family: whatEver;
+    }
