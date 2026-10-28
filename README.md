@@ -12,3 +12,8 @@ Tästä kansiosta löydät kaikki muutoslokit, tiedot ja muun tarpeellisen Ohjel
 21.10.
 Repositorio luotu ja kansiot puskettu.
 HTML ja CSS tiedostojen luonti aloitettu. 
+
+28.10.
+En muista mitä kaikkea tein aiemmin, joten tässä tiedot uusista.
+js1-2 moduuli luotu ja tehtävät aloitettu.
+Html-css kansioon tehty muutoksia ja koitettu edistää sivustotehtävää.
