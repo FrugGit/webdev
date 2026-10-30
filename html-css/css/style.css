@@ -4,7 +4,7 @@ body {
   background-position: center;
   padding: 1rem;
   background-attachment: fixed;
-  height: 100vh;
+  min-height: 100vh;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
 }
 
@@ -44,12 +44,6 @@ header {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 20px;
-}
-
-.product-card {
-  border: 1px solid #855400a7;
-  padding: 15px;
-  background-color: #723f00b1;
 }
 
 .product-card img {
