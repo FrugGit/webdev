@@ -129,3 +129,8 @@ iframe {
 main h1 {
   text-align: center;
 }
+
+.screenshot-grid {
+    display: flex;
+    flex-direction: column;
+}
