@@ -134,6 +134,16 @@ main h1 {
     background-color: rgba(32, 29, 23, 0.58);
     display: flex;
     flex-direction: column;
+    padding: 1rem;
+    justify-items: auto;
+}
+
+.screenshot-grid, img {
+    max-width: fit-content;
+}
+
+.screenshot-grid, p {
+    font-size: large;
 }
 
 footer {
