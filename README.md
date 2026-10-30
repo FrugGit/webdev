@@ -17,3 +17,6 @@ HTML ja CSS tiedostojen luonti aloitettu.
 En muista mitä kaikkea tein aiemmin, joten tässä tiedot uusista.
 js1-2 moduuli luotu ja tehtävät aloitettu.
 Html-css kansioon tehty muutoksia ja koitettu edistää sivustotehtävää.
+
+30.10
+HTML-CSS tehtävän viimeistely, tarkistukset ja kuvakaappaus sivun luonti, koonti ja julkaisu.
