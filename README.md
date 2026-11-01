@@ -26,7 +26,7 @@ HTML-CSS tehtävän viimeistely, tarkistukset ja kuvakaappaus sivun luonti, koon
 
 ### JS-moduulit 1 ja 2
 
-[Linkki JS-moduulin 1-2 kansiooni Github repossani](https://github.com/FrugGit/webdev/tree/main/js-assignments/js-1-2)
+[Linkki JS-moduulin 1-2 kansiooni Github repossani](https://github.com/FrugGit/webdev/tree/main/js-1-2)
 
 Tehdyt tehtävät:
 
