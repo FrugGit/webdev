@@ -20,3 +20,19 @@ Html-css kansioon tehty muutoksia ja koitettu edistää sivustotehtävää.
 
 30.10
 HTML-CSS tehtävän viimeistely, tarkistukset ja kuvakaappaus sivun luonti, koonti ja julkaisu.
+
+
+# JS-Moduulit
+
+### JS-moduulit 1 ja 2
+
+[Linkki JS-moduulin 1 kansiooni Github repossani](https://github.com/FrugGit/webdev/tree/main/js-assignments/js-1-2/assignment-1)
+
+Tehdyt tehtävät:
+
+- Tehtävä 1: 1 p
+- Tehtävä 2: 2 p
+- Tehtävä 3: 3 p
+- 
+
+**Yhteensä 6p**
