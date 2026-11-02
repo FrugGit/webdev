@@ -15,7 +15,6 @@ HTML ja CSS tiedostojen luonti aloitettu.
 
 28.10.
 En muista mitä kaikkea tein aiemmin, joten tässä tiedot uusista.
-js1-2 moduuli luotu ja tehtävät aloitettu.
 Html-css kansioon tehty muutoksia ja koitettu edistää sivustotehtävää.
 
 30.10
@@ -24,7 +23,16 @@ HTML-CSS tehtävän viimeistely, tarkistukset ja kuvakaappaus sivun luonti, koon
 
 # JS-Moduulit
 
-### JS-moduulit 1 ja 2
+28.10.
+js-1-2 moduuli luotu ja tehtävät aloitettu.
+
+1.11.
+js-1-2 vaadittavat tehtävät tehty ja palautettu.
+
+2.11.
+js-3 moduulin vaaditut tehtävät tehty.
+
+### JS-moduulit 1 ja 2 Tehtävät
 
 [Linkki JS-moduulin 1-2 kansiooni Github repossani](https://github.com/FrugGit/webdev/tree/main/js-1-2)
 
@@ -37,3 +45,11 @@ Tehdyt tehtävät:
 - Tehtävä 5: 3 p
 
 **Yhteensä 12p**
+
+
+### JS-moduuli 3 Tehtävät
+
+- Tehtävä 1: 2 p
+- Tehtävä 10: 8 p
+
+**Yhteensä 10p**
