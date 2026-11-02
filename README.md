@@ -32,6 +32,10 @@ js-1-2 vaadittavat tehtävät tehty ja palautettu.
 2.11.
 js-3 moduulin vaaditut tehtävät tehty.
 
+Teen js-1-2 loputkin tehtävät, erotan ns "ylimääräiset" tehtävät tyhjällä rivillä tehtävien pisteiden yhteenlaskussa.
+
+js-1-2 HTML tiedostoihin lisätty h1 otsikot.
+
 ### JS-moduulit 1 ja 2 Tehtävät
 
 [Linkki JS-moduulin 1-2 kansiooni Github repossani](https://github.com/FrugGit/webdev/tree/main/js-1-2)
@@ -44,7 +48,13 @@ Tehdyt tehtävät:
 - Tehtävä 4: 3 p
 - Tehtävä 5: 3 p
 
-**Yhteensä 12p**
+- Tehtävä 6: 3 p
+- Tehtävä 7: 2 p
+- Tehtävä 8: 3 p
+- Tehtävä 9: 2 p
+- Tehtävä 10: 5 p
+
+**Yhteensä 27p**
 
 
 ### JS-moduuli 3 Tehtävät
