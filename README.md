@@ -4,14 +4,14 @@ Roope Forsgrén
 
 Tästä kansiosta löydät kaikki muutoslokit, tiedot ja muun tarpeellisen Ohjelmisto 2 sisällöistä.
 
-# HTML + CSS 
+# HTML + CSS
 
 20.10.
 ~~Aloitettu HTML sivun luonti, odottaa repositorion luontia ja sinne puskemista.~~
 
 21.10.
 Repositorio luotu ja kansiot puskettu.
-HTML ja CSS tiedostojen luonti aloitettu. 
+HTML ja CSS tiedostojen luonti aloitettu.
 
 28.10.
 En muista mitä kaikkea tein aiemmin, joten tässä tiedot uusista.
@@ -19,7 +19,6 @@ Html-css kansioon tehty muutoksia ja koitettu edistää sivustotehtävää.
 
 30.10
 HTML-CSS tehtävän viimeistely, tarkistukset ja kuvakaappaus sivun luonti, koonti ja julkaisu.
-
 
 # JS-Moduulit
 
@@ -35,6 +34,9 @@ js-3 moduulin vaaditut tehtävät tehty.
 Teen js-1-2 loputkin tehtävät, erotan ns "ylimääräiset" tehtävät tyhjällä rivillä tehtävien pisteiden yhteenlaskussa.
 
 js-1-2 HTML tiedostoihin lisätty h1 otsikot.
+
+10.11.
+js-4 moduulin tehtävät aloitettu
 
 ### JS-moduulit 1 ja 2 Tehtävät
 
@@ -56,10 +58,16 @@ Tehdyt tehtävät:
 
 **Yhteensä 27p**
 
-
 ### JS-moduuli 3 Tehtävät
 
 - Tehtävä 1: 2 p
 - Tehtävä 10: 8 p
 
 **Yhteensä 10p**
+
+### JS-moduuli 4 Tehtävät
+
+- Tehtävä 1: 2 p
+- Tehtävä 2: 2 p
+
+**Yhteensä 4p**
