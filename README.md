@@ -38,6 +38,9 @@ js-1-2 HTML tiedostoihin lisätty h1 otsikot.
 10.11.
 js-4 moduulin tehtävät aloitettu
 
+11.11.
+js-4 vaaditut tehtävät tehty
+
 ### JS-moduulit 1 ja 2 Tehtävät
 
 [Linkki JS-moduulin 1-2 kansiooni Github repossani](https://github.com/FrugGit/webdev/tree/main/js-1-2)
@@ -60,12 +63,17 @@ Tehdyt tehtävät:
 
 ### JS-moduuli 3 Tehtävät
 
+[Linkki JS-moduulin 3 kansiooni Github repossani](https://github.com/FrugGit/webdev/tree/main/js-3)
+
 - Tehtävä 1: 2 p
+- Tehtävä 2: 2 p
 - Tehtävä 10: 8 p
 
 **Yhteensä 10p**
 
 ### JS-moduuli 4 Tehtävät
+
+[Linkki JS-moduulin 4 kansiooni Github repossani](https://github.com/FrugGit/webdev/tree/main/js-4)
 
 - Tehtävä 1: 2 p
 - Tehtävä 2: 2 p
