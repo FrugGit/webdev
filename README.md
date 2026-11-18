@@ -41,6 +41,9 @@ js-4 moduulin tehtävät aloitettu
 11.11.
 js-4 vaaditut tehtävät tehty
 
+18.11.
+js-4 lisätehtäviä tehty
+
 ### JS-moduulit 1 ja 2 Tehtävät
 
 [Linkki JS-moduulin 1-2 kansiooni Github repossani](https://github.com/FrugGit/webdev/tree/main/js-1-2)
@@ -81,6 +84,8 @@ Tehdyt tehtävät:
 - Tehtävä 4: 2 p
 - Tehtävä 5: 5 p
 
-- Tehtävä :
-
-**Yhteensä 13p**
+- Tehtävä 6: 1 p
+- Tehtävä 7: 2 p
+- Tehtävä 8: 4 p
+- Tehtävä 9: 4 p
+  **Yhteensä 24p**
