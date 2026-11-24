@@ -44,6 +44,11 @@ js-4 vaaditut tehtävät tehty
 18.11.
 js-4 lisätehtäviä tehty
 
+# Flask
+
+24.11.
+flask tehtävät 1-3 tehty. Deadline unohtunut merkata kalenteriin.
+
 ### JS-moduulit 1 ja 2 Tehtävät
 
 [Linkki JS-moduulin 1-2 kansiooni Github repossani](https://github.com/FrugGit/webdev/tree/main/js-1-2)
@@ -88,4 +93,14 @@ Tehdyt tehtävät:
 - Tehtävä 7: 2 p
 - Tehtävä 8: 4 p
 - Tehtävä 9: 4 p
-  **Yhteensä 24p**
+
+**Yhteensä 24p**
+
+### Python Flask server moduulin tehtävät
+
+[Linkki Python Flask server moduulin kansioon Github repossani](https://github.com/FrugGit/webdev/tree/main/flask)
+
+- Tehtävä 1: 4 p
+- Tehtävä 2: 10 p
+- Tehtävä 3: 6 p
+  **Yhteensä 20p**
