@@ -44,6 +44,10 @@ js-4 vaaditut tehtävät tehty
 18.11.
 js-4 lisätehtäviä tehty
 
+27.11.
+js-5 vaaditut tehtävät tehty
+lisätty links.txt muihin moduuleihin
+
 # Flask
 
 24.11.
@@ -95,6 +99,14 @@ Tehdyt tehtävät:
 - Tehtävä 9: 4 p
 
 **Yhteensä 24p**
+
+### JS-moduuli 5 Tehtävät
+
+- Tehtävä 1: 2 p
+- Tehtävä 2: 3 p
+- Tehtävä 3: 7 p
+
+**Yhteensä 12p**
 
 ### Python Flask server moduulin tehtävät
 
